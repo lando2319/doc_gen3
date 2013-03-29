@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  person: MyString
+  expense: MyString
+  exp_quantity: 1
+  exp_price: 9.99
+  due_date: 2013-03-29
+  notes: MyText
+
+two:
+  person: MyString
+  expense: MyString
+  exp_quantity: 1
+  exp_price: 9.99
+  due_date: 2013-03-29
+  notes: MyText
